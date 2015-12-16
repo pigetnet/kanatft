@@ -1,0 +1,3 @@
+/system/makedir /user/config/kanaTFT
+cp /do/kanatft/default/config.ini /user/config/kanaTFT
+/system/install python-pygame
